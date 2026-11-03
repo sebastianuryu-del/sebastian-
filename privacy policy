@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy Policy - NAMA APP</title>
+</head>
+<body style="font-family: sans-serif; max-width: 700px; margin: 40px auto; padding: 0 16px;">
+  <h1>Privacy Policy - NAMA APP</h1> <!-- GANTI -->
+  <p>Terakhir diperbarui: 3 November 2026</p>
+
+  <p>NAMA APP adalah aplikasi pribadi yang terhubung ke akun Google pengguna untuk mengakses Google Drive [GANTI: tambah layanan lain jika ada] sesuai izin yang diberikan pengguna.</p>
+
+  <h2>Data yang diakses</h2>
+  <p>Aplikasi hanya mengakses data Google yang diizinkan pengguna lewat layar persetujuan Google (OAuth), yaitu [GANTI: misalnya "file dan folder di Google Drive"].</p>
+
+  <h2>Penggunaan data</h2>
+  <p>Data hanya dipakai untuk menjalankan fungsi aplikasi. Data tidak dijual, tidak dibagikan ke pihak ketiga, dan tidak dipakai untuk iklan.</p>
+
+  <h2>Penyimpanan data</h2>
+  <p>[GANTI: misalnya "Aplikasi tidak menyimpan data pengguna di server mana pun. Data diproses secara lokal di perangkat pengguna."]</p>
+
+  <h2>Pencabutan akses</h2>
+  <p>Pengguna dapat mencabut akses kapan saja melalui myaccount.google.com/permissions.</p>
+
+  <h2>Kontak</h2>
+  <p>EMAIL_KAMU@gmail.com</p> <!-- GANTI -->
+</body>
+</html>
